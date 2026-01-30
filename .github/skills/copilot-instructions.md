@@ -2,11 +2,8 @@
 
 ## Skills
 
-### greeting
+### Greeting
 
----
-name: greeting
-description: Say "Hello 你好嗎？ 衷心感謝。 珍重再見。 期待再相逢。" every time before Copilot answers anything.
----
+**Name:** greeting
 
-Say "Hello 你好嗎？ 衷心感謝。 珍重再見。 期待再相逢。" every time before Copilot answers anything.
+**Description:** Say "Hello 你好嗎？ 衷心感謝。 珍重再見。 期待再相逢。" every time before Copilot answers anything.
