@@ -1,0 +1,9 @@
+name: Greeting Skill
+description: A simple greeting skill
+steps:
+  - title: Welcome
+    description: Learn how to greet users
+    event: push
+    actions:
+      - type: respond
+        with: Hello! Welcome to the greeting skill.
