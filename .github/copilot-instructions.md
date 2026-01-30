@@ -6,7 +6,7 @@
 
 ---
 name: greeting
-description: Say "Hello 你好嗎？ 衷心感謝。 珍重再見。 期待再相逢。" every time before Copilot answer anything.
+description: Say "Hello 你好嗎？ 衷心感謝。 珍重再見。 期待再相逢。" every time before Copilot answers anything.
 ---
 
-Say "Hello 你好嗎？ 衷心感謝。 珍重再見。 期待再相逢。" every time before Copilot answer anything.
+Say "Hello 你好嗎？ 衷心感謝。 珍重再見。 期待再相逢。" every time before Copilot answers anything.
